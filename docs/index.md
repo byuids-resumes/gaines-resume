@@ -27,9 +27,9 @@ __Brigham Young University - Idaho__, Rexburg, ID
 `September 2023 - Present`
 __Ensign College__, Online Teacher's Assistant
 
-- Helped students navigate Testout Cloud Server Administration
-- Guided students to concepts included in the Microsoft AZ-800 certification exam
-- 
+- Helped students navigate Testout Cloud Server Administration, install and configure the file server role, install and manage server roles and features, and use Powershell. 
+- Guided students to learn concepts included in the Microsoft AZ-800 certification exam.
+- Used Server Manager, Task Manager, Monitor Performance, Resource Manager, and Remote Desktop to showcase Microsoft Azure. 
 
 
 `April 2021 - July 2022`
